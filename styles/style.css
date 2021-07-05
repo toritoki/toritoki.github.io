@@ -1,16 +1,23 @@
 h1 {
-    font-family: 'Bebas Neue', cursive;
+  text-align: center;
+  font-family: 'Bebas Neue', cursive;
 }
 h2 {
-    font-family: 'Bebas Neue', cursive;
+  text-align: center;
+  font-family: 'Bebas Neue', cursive;
 }
 img {
-  display: block;
-  margin: 0 auto;
+display: block;
+margin: 0 auto;
 }
 body {
-    display: block;
-    margin: 40 auto;
-    padding: 0 40px 40px 40px;
-    border: 5px solid black;
-  }
+  text-align: center;
+  display: block;
+  margin: 40 auto;
+  padding: 0 40px 40px 40px;
+  border: 5px solid black;
+}
+li {
+  text-align: center;
+  list-style-position: inside;
+}
