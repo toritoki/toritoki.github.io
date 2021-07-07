@@ -6,20 +6,34 @@ h2 {
   text-align: center;
   font-family: 'Bebas Neue', cursive;
 }
-img {
+.small-icon {
+  max-width: 20%;
+  margin-top: 20px;
+  border: 5px;
+  border-style: solid;
+  border-radius: 50%;
+  border-top-left-radius: 10px;
+  vertical-align: middle;
+  
+}
+.name {
+  text-align: center;
+  display: inline;
+}
+.macbook {
 display: block;
-max-width: 100%;
 height: auto;
 margin: auto;
+max-width: 100%;
 }
 body {
-  text-align: center;
+  border: 5px solid black;
   display: block;
   margin: 10px;
   padding: 0 40px 40px 40px;
-  border: 5px solid black;
+  text-align: center;
 }
 li {
-  text-align: center;
   list-style-position: inside;
+  text-align: center;
 }
