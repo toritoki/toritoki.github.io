@@ -1,3 +1,11 @@
+body {
+  border: 5px solid black;
+  display: block;
+  margin: 10px;
+  padding: 0 40px 40px 40px;
+  text-align: center;
+}
+
 h1 {
   text-align: center;
   font-family: 'Bebas Neue', cursive;
@@ -43,15 +51,12 @@ margin: auto;
 max-width: 100%;
 }
 
-body {
-  border: 5px solid black;
-  display: block;
-  margin: 10px;
-  padding: 0 40px 40px 40px;
-  text-align: center;
+.skills {
+  position: relative;
+  bottom: 10px;
 }
 
-li {
-  list-style-position: inside;
-  text-align: center;
+.future {
+  position: relative;
+  bottom: 40px;
 }
