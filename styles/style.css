@@ -6,6 +6,12 @@ h2 {
   text-align: center;
   font-family: 'Bebas Neue', cursive;
 }
+a {
+  color: #6495ED;
+}
+a:hover {
+  color: #FF69B4;
+}
 .small-icon {
   max-width: 15%;
   margin-top: 20px;
