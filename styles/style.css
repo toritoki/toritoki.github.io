@@ -13,12 +13,14 @@ h2 {
   border-style: solid;
   border-radius: 50%;
   border-top-left-radius: 10px;
+  -moz-border-top-left-radius: 10px;
   vertical-align: middle;
   
 }
 .name {
   text-align: center;
   display: inline;
+  font-size: 4em;
 }
 .macbook {
 display: block;
