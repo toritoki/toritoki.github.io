@@ -8,6 +8,7 @@ h2 {
 }
 .small-icon {
   max-width: 15%;
+  max-height: 15%;
   margin-top: 20px;
   border: 5px;
   border-style: solid;
